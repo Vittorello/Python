@@ -1,3 +1,5 @@
+# Criar um programa para somar os valores digitados
+
 valor_01 = input("Digite um valor: ")
 valor_02 = input("Digite outro valor: ")
 
